@@ -19,6 +19,7 @@ namespace WindowsFormsApp1
 
         private void ButtonClose_Click(object sender, EventArgs e)
         {
+            // добавление комментария
             Close();
         }
     }
